@@ -3,7 +3,15 @@
 - Presentations 
   - Mid-Presentation: 03/28, 04/04
   - Final-Presentation: 05/23, 05/30 
-  
+
+### Status Quo
+|DATE|SUBJECT|CONTENT|REFERENCE|
+|------|---|---|-----|
+|03.13.23|Naver Deview2023|Compute-Optimality 분석 통해 학습 자원이 GPT 급 미만일 경우 Seq2Seq이 장점 가짐|
+|03.13.23|Few-Shot Learning|Learning to Few-Shot Learn Across Diverse Natural Language Classification Tasks <Paper>|GitHub - iesl/leopard|
+|03.13.23|Dealing with small datasets in NLP|1) Data 이어붙이기, 2) Data Augmentation, 3) Adaptive Fine-Tuning|https://www.ruder.io/recent-advances-lm-fine-tuning/amp/|
+
+
   
 ## NLP-Implementation-study 
 - Study Group 1 
