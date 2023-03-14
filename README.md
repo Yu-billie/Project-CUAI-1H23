@@ -4,7 +4,7 @@
   - Mid-Presentation: 03/28, 04/04
   - Final-Presentation: 05/23, 05/30 
 
-### Status Quo
+### Status Quo Research
 |DATE|SUBJECT|CONTENT|REFERENCE|
 |------|---|---|-----|
 |03.13.23|Naver Deview2023|Compute-Optimality 분석 통해 학습 자원이 GPT 급 미만일 경우 Seq2Seq이 장점 가짐|
